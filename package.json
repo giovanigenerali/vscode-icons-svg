@@ -1,0 +1,21 @@
+{
+  "name": "vscode-icons-svg",
+  "description": "Get the icon url in SVG given the file extension.",
+  "version": "1.0.0",
+  "main": "dist/vscode-icons-svg.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack --mode=development --watch",
+    "build": "webpack --mode=production"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "vscode-icons-js": "^10.1.1"
+  }
+}
