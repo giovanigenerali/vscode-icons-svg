@@ -1,7 +1,7 @@
 {
   "name": "vscode-icons-svg",
   "description": "Get the icon url in SVG given the file extension.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "dist/vscode-icons-svg.js",
   "license": "MIT",
   "scripts": {
