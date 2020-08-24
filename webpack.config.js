@@ -5,6 +5,8 @@ module.exports = {
   output: {
     filename: "vscode-icons-svg.js",
     path: path.resolve(__dirname, "dist"),
+    library: "vscodeIconsSVG",
     libraryTarget: "umd",
+    umdNamedDefine: true,
   },
 };
