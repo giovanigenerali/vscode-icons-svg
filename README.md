@@ -10,10 +10,10 @@ https://vscode-icons-svg.netlify.app
 
 ## Install
 
-https://www.jsdelivr.com/package/gh/giovanigenerali/vscode-icons-svg
+https://www.jsdelivr.com/package/npm/vscode-icons-svg
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/giovanigenerali/vscode-icons-svg@2.0.0/dist/vscode-icons-svg.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vscode-icons-svg@latest/dist/vscode-icons-svg.min.js"></script>
 ```
 
 ## How to use
