@@ -51,9 +51,3 @@ dockerCompose.src = vscodeIconSVG("docker-compose.yml");
 dockerCompose.alt = "Icon docker-compose.yml";
 dockerCompose.loading = "lazy";
 document.body.appendChild(dockerCompose);
-
-const github = document.createElement("IMG");
-github.src = vscodeIconSVG("github");
-github.alt = "Icon docker-compose.yml";
-github.loading = "lazy";
-document.body.appendChild(github);
