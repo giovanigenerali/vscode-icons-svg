@@ -6,6 +6,8 @@ Get the icon url in SVG given the file extension.
 
 https://vscode-icons-svg.netlify.app
 
+![demo](https://user-images.githubusercontent.com/41435/91000932-bd333800-e5a0-11ea-90e4-613b7be88bc8.png)
+
 ## Install
 
 https://www.jsdelivr.com/package/gh/giovanigenerali/vscode-icons-svg
