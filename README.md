@@ -2,6 +2,10 @@
 
 Get the icon url in SVG given the file extension.
 
+## Demo
+
+https://vscode-icons-svg.netlify.app
+
 ## Install
 
 https://www.jsdelivr.com/package/gh/giovanigenerali/vscode-icons-svg
