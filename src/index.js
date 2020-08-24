@@ -8,10 +8,9 @@ export function vscodeIconSVG(fileName) {
   let iconFileExtension = iconFallback;
 
   if (fileName) {
+    const file = fileName.toLowerCase();
     const extension =
-      extname(fileName) || fileName.indexOf(".") !== -1
-        ? fileName
-        : `.${fileName}`;
+      extname(file) || file.indexOf(".") !== -1 ? file : `.${file}`;
 
     iconFileExtension = getIconForFile(extension);
   }
