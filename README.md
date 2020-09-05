@@ -18,11 +18,15 @@ https://www.jsdelivr.com/package/npm/vscode-icons-svg
 
 ## How to use
 
+Call the method ```get``` passing the file with extension, it's accept ```.jsx```, ```file.jsx``` or ```http://URL/file.jsx```
 ```js
 vscodeIconsSVG.get("file.jsx");
-
-// https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg
 ```
+Will return the svg icon url
+```
+https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg
+```
+
 
 ```js
 const icon = document.createElement("IMG");
