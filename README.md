@@ -22,7 +22,7 @@ Call the method ```get``` passing the file with extension, it's accept ```.jsx``
 ```js
 vscodeIconsSVG.get("file.jsx");
 ```
-Will return the svg icon url
+It'll return the svg icon url
 ```
 https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg
 ```
