@@ -27,7 +27,7 @@ Will return the svg icon url
 https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg
 ```
 
-
+Complete example:
 ```js
 const icon = document.createElement("IMG");
 icon.src = vscodeIconsSVG.get("file.jsx");
