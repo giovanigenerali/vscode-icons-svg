@@ -3,6 +3,7 @@
   "description": "Get the icon url in SVG given the file extension.",
   "version": "2.0.0",
   "main": "dist/vscode-icons-svg.js",
+  "author": "Giovani Generali",
   "license": "MIT",
   "scripts": {
     "dev": "webpack --mode=development --watch",
